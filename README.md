@@ -3,7 +3,7 @@ This is a sample application with MVP architecture, also commonly known as MODEL
 <br><br>
 <img src="mvpLayers.png"/>
 <br>
-Advantages to implement the MVP pattern in your projects:
+Advantages to implement the MVP pattern :
 <UL>
 <LI>Code become more easy to maintain.</LI>
 <LI>Code becomes easily testable</LI>
